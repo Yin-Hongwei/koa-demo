@@ -1,0 +1,11 @@
+
+.el-form-item__content{
+  margin: 0!important;
+}
+.el-button--primary {
+  width: 100%;
+}
+*{
+  margin: 0;
+  padding: 0;
+}
